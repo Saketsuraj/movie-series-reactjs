@@ -7,8 +7,8 @@ Movies and Series are released either in or after 2010.
 Loading page and error page is also added.
 
 Getting Started
-1.Open your cmd (Command Prmpt).
-2. git clone https://github.com/akinmaurice/reactflix.git
+1.Open your cmd (Command Prompt).
+2. git clone https://github.com/Saketsuraj/movie-series-reactjs.git
 3. cd movie-series-reactjs
 4. npm install
 5. npm start
