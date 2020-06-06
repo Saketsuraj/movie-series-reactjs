@@ -32,7 +32,7 @@ Folder Structure:
 Improvements that can be done are:
 
 1.Home page should be more dynamic.   
-2.Heade can be made dynamic.   
+2.Header can be made dynamic.   
 3.Better UI can be created.   
 4.Search option can be added.   
 5.Trailers can be displayed.   
