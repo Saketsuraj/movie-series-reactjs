@@ -1,0 +1,23 @@
+.footer{
+    background: #333;
+}
+.footer .container > div{
+    width: 100%;
+    padding-top: 15px;
+}
+.footer .container > div:last-of-type{
+    padding-bottom: 30px;
+}
+.footer div.footer-links{
+    color: #fff;
+}
+.footer div.copyright-section{
+    color: #fff;
+}
+.footer div.icon-section div i{
+    color: #fff;
+    font-size: 30px;
+}
+.footer div.icon-section div i:not(:first-of-type){
+    margin-left:15px;
+}

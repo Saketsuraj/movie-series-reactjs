@@ -1,26 +1,32 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
+import ReactDOM from 'react-dom'
+import { Router, Route, Link, browserHistory, IndexRoute } from 'react-router'
+//import { BrowerRouter as Router, Route, Link, Switch } from 'react-router-dom';
+
+import Header from './components/Header';
+import Secondaryheader from './components/secondary-header/Secondaryheader';
+import Footer from './components/Footer';
+import View from './components/View';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div>
+      <Header />
+      <Secondaryheader />
+      <View />
+      <Footer />
     </div>
-  );
+  )
 }
+
+ReactDOM.render((
+  <Router history={browserHistory}>
+    <Route path="/" component={App} />
+    <Route path="/movie" component={App} />
+    <Route path="/series" component={App} />
+  </Router>
+), document.getElementById('root'))
 
 export default App;

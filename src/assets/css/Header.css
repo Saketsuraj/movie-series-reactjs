@@ -1,0 +1,18 @@
+.navbar-brand{
+    color: #fff;
+}
+.navbar{
+    background-color: #007bff;
+}
+.navbar-nav a{
+    color: #fff;
+}
+.btn-start{
+    background-color: #333;
+    color: #fff;
+}
+@media (max-width: 990px) {
+    .primaryNavbar {
+        float: none;
+    }
+}
