@@ -2,7 +2,7 @@ Responsive React JS Movie App Using Data from The JSON file.
 
 Features
 List popular Movies and Series
-##Display only 21 movies and series each.
+Display only 21 movies and series each.
 Movies and Series are released either in or after 2010.
 Loading page and error page is also added.
 
