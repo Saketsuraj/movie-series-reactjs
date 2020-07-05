@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/movie-series-reactjs/static/css/main.cee88344.chunk.css",
+    "main.js": "/movie-series-reactjs/static/js/main.a0693e87.chunk.js",
+    "main.js.map": "/movie-series-reactjs/static/js/main.a0693e87.chunk.js.map",
+    "runtime-main.js": "/movie-series-reactjs/static/js/runtime-main.ccc18cd4.js",
+    "runtime-main.js.map": "/movie-series-reactjs/static/js/runtime-main.ccc18cd4.js.map",
+    "static/css/2.b5d109d2.chunk.css": "/movie-series-reactjs/static/css/2.b5d109d2.chunk.css",
+    "static/js/2.083fe1b5.chunk.js": "/movie-series-reactjs/static/js/2.083fe1b5.chunk.js",
+    "static/js/2.083fe1b5.chunk.js.map": "/movie-series-reactjs/static/js/2.083fe1b5.chunk.js.map",
+    "index.html": "/movie-series-reactjs/index.html",
+    "precache-manifest.fe5f6f2db15f22c4cf0299a80f43ca97.js": "/movie-series-reactjs/precache-manifest.fe5f6f2db15f22c4cf0299a80f43ca97.js",
+    "service-worker.js": "/movie-series-reactjs/service-worker.js",
+    "static/css/2.b5d109d2.chunk.css.map": "/movie-series-reactjs/static/css/2.b5d109d2.chunk.css.map",
+    "static/css/main.cee88344.chunk.css.map": "/movie-series-reactjs/static/css/main.cee88344.chunk.css.map",
+    "static/js/2.083fe1b5.chunk.js.LICENSE.txt": "/movie-series-reactjs/static/js/2.083fe1b5.chunk.js.LICENSE.txt",
+    "static/media/all.min.css": "/movie-series-reactjs/static/media/fa-solid-900.ec763292.svg",
+    "static/media/logo.svg": "/movie-series-reactjs/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ccc18cd4.js",
+    "static/css/2.b5d109d2.chunk.css",
+    "static/js/2.083fe1b5.chunk.js",
+    "static/css/main.cee88344.chunk.css",
+    "static/js/main.a0693e87.chunk.js"
+  ]
+}
